@@ -49,5 +49,3 @@ After making your selections, you can click the "generate password" which will c
 You then have the option to use the "copy to clipboard" button to be able to copy paste wherever you'd like.
 
 Enjoy!
-
-https://github.com/kait-kat/Password-Generator/blob/3162de0d75e714577a0c53a65c5555adcf0615b6/root/index.html
