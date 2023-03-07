@@ -39,3 +39,8 @@ This project is about creating a password generator. The majority of the HTML ha
     * Do they want special characters?
 * If the user inputs invalid data (must select at least one character type, length must be between 8 and 128), then repeat the popups until they select correct data.
 * Once the criteria are selected, then use a random number generator to generate the new password and place it in the given space in the HTML. There are a number of ways to do this, the instructional staff can help with hints on this if you need.
+
+![password-gen-ss](https://user-images.githubusercontent.com/112601209/223535483-79cd23f2-2df8-4bde-85bf-18d5f27bf680.jpg)
+
+![password-gen-ss2](https://user-images.githubusercontent.com/112601209/223535598-6a68d33d-6935-43a2-88be-ef9d49f3810c.jpg)
+
