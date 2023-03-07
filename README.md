@@ -44,3 +44,6 @@ This project is about creating a password generator. The majority of the HTML ha
 
 ![password-gen-ss2](https://user-images.githubusercontent.com/112601209/223535598-6a68d33d-6935-43a2-88be-ef9d49f3810c.jpg)
 
+![password-gen-ss3](https://user-images.githubusercontent.com/112601209/223536182-db4d189e-062b-4d1c-8a04-70316b3ec67a.jpg)
+
+Additionally, there is a copy to clipboard function for easy copy/pasting!
