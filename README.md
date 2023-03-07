@@ -29,3 +29,8 @@ THEN the password shows up in the result container
 WHEN the password is in the result container
 THEN I can use the copy to clipboard button for easy copy/pasting
 ```
+![password-gen-ss](https://user-images.githubusercontent.com/112601209/223549675-b4d7499d-2348-4939-8049-50ed397ce76e.jpg)
+
+![password-gen-ss2](https://user-images.githubusercontent.com/112601209/223549721-ce27d3fd-1523-453f-b122-dc31685f91ad.jpg)
+
+![password-gen-ss3](https://user-images.githubusercontent.com/112601209/223549781-39075e04-cacf-45e3-8198-75e2c3c2b05e.jpg)
