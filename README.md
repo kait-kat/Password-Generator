@@ -47,3 +47,9 @@ After making your selections, you can click the "generate password" which will c
 ![password-gen-ss3](https://user-images.githubusercontent.com/112601209/223549781-39075e04-cacf-45e3-8198-75e2c3c2b05e.jpg)
 
 You then have the option to use the "copy to clipboard" button to be able to copy paste wherever you'd like.
+
+Enjoy!
+
+---
+permalink: /index.html
+---
