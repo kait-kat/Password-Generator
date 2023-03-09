@@ -51,5 +51,5 @@ You then have the option to use the "copy to clipboard" button to be able to cop
 Enjoy!
 
 ---
-permalink: /root/index.html
+https://github.com/kait-kat/Password-Generator/blob/9e18d5c0ef5a8bad5095505df7cc4f289300651c/root/index.html
 ---
