@@ -48,4 +48,6 @@ After making your selections, you can click the "generate password" which will c
 
 You then have the option to use the "copy to clipboard" button to be able to copy paste wherever you'd like.
 
+[(https://kait-kat.github.io/Password-Generator/root/index.html)]
+
 Enjoy!
